@@ -1,4 +1,4 @@
-# Actividad Ejercicios de Lógica JSEJERCICIOS DE LÓGICA DE PROGRAMACIÓN UTILIZANDO EL LENGUAJE KOTLIN.
+# EJERCICIOS DE LÓGICA DE PROGRAMACIÓN UTILIZANDO EL LENGUAJE KOTLIN.
 
 **Nombre de la institucion:** Universidad Tecnologica de la Sierra Hidalguense
 
